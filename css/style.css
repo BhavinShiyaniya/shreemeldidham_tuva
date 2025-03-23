@@ -1504,7 +1504,7 @@ h3 {
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
 .slider_bg_1 {
   /* background-image: url(../img/banner/banner.png); */
-  background-image: url(..assets/img/temple3.jpeg);
+  background-image: url(../assets/img/temple3.jpeg);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
@@ -3000,7 +3000,7 @@ h3 {
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .video_bg_1 {
   /* background-image: url(../img/banner/man.png); */
-  background-image: url(..assets/img/meldi_maa1.jpg);
+  background-image: url(../assets/img/meldi_maa1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -3008,7 +3008,7 @@ h3 {
 
 .video_bg_2 {
   /* background-image: url(../img/banner/man.png); */
-  background-image: url(..assets/img/gaushala1.png);
+  background-image: url(../assets/img/gaushala1.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;

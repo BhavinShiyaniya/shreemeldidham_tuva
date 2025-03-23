@@ -21,7 +21,12 @@ if(menu.length){
 	menu.slicknav({
 		prependTo: ".mobile_menu",
 		closedSymbol: '+',
-		openedSymbol:'-'
+		openedSymbol:'-',
+    afterOpen: function() {
+      if (!$(".slicknav_menu .book_btn").length) {
+          $(".slicknav_nav").append('<li class="book_btn"><a href="donate.html">Donate</a></li>');
+      }
+  }
 	});
 };
 // blog-menu
